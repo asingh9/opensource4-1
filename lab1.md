@@ -36,7 +36,7 @@ Based on other readings about similar lawsuits in the technology sector, most pr
 #### Blockly Puzzle
 ![blockly](images/blockly.png)
 
-#### Reflections on an interesting problem
+### Reflections on an interesting problem
 One issue I have come across during my time at RPI is the inefficient system for calling for a ride to get to
 a fraternity during social events. If a house is far from campus, the fraternity will have designated drivers
 to bring students to and from their house; however, only one call can be handled at a time via cellphone or if by text message the messages have to be read and responded to by the driver when idling or a passenger with the responsibility. A solution I have considered is designing a mobile appilcation to request and serve rides in much the same way Uber operates. A fraternity can have an administrative account to handle drivers and keep track of their location and the driver will be able to see rider requests nearby and choose to fulfill them. This application has potential for adoption at every major university with a fraternity presence that has some designated driver system for social events held at their chapter house.
