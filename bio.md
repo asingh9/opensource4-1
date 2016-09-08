@@ -2,4 +2,4 @@
 ### email: singha9@rpi.edu
 ### github account: asingh9
 ### slack handle: singha9
-![Avi](images/pic.jpg)
+![Avi](images/pic.png)
