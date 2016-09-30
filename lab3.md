@@ -28,7 +28,7 @@
 
 ## Part 2
 ### Forking Spoon-Knife
-![fork](fork.png)
+![fork](images/fork.png)
 ### Git terminal commands
 ![spoonknife](images/spoonknife.png)
 ### Learning Branching
