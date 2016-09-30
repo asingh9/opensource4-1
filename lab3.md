@@ -18,11 +18,11 @@
 #### Branch - Jupiter
 ![jupiter](images/hellojupiter.png)
 #### gitk installation
-![gitk](images/gitkinstall.png)
+![gitkinstall](images/gitkinstall.png)
 ##### gitk program
 ![gitk](images/gitk.png)
 ##### gitk --all
-![gitk](images/gitkall.png)
+![gitkall](images/gitkall.png)
 ##### git log
 ![gitlog](images/gitlog.png)
 
