@@ -1,10 +1,10 @@
 ## SSH key
-![ssh](keygen.png)
+![ssh](images/keygen.png)
 
 ## Part 1
 ### Setting up Git
 #### Creating a README
-![readme](images/sublime.png)
+![readme](lab3/lab3part1/README.md)
 ### Creating Repository
 ![gitsetup](images/gitsetup.png)
 #### Pushing to master
@@ -31,4 +31,5 @@
 ![fork](fork.png)
 ### Git terminal commands
 ![spoonknife](images/spoonknife.png)
-### 
+### Learning Branching
+![branchtutorial](images/branchtutorial.png)
