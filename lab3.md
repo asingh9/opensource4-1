@@ -4,7 +4,7 @@
 ## Part 1
 ### Setting up Git
 #### Creating a README
-![readme](https://github.com/asingh9/lab3/lab3part1/README.md)
+[readme](https://github.com/asingh9/lab3/lab3part1/README.md)
 ### Creating Repository
 ![gitsetup](images/gitsetup.png)
 #### Pushing to master
