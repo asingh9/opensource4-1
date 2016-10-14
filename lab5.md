@@ -17,7 +17,7 @@
 ![step3mathlists](images/step3mathlists.png)
 ![step3lists](images/step3lists.png)
 ![build](images/build.png)
-![make](images/make.png)
+![make](images/install.png)
 #### Step 4
 ![step4lists](images/step4lists.png)
 ![step4config](images/step4config.png)
