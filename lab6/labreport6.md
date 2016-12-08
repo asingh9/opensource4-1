@@ -23,13 +23,17 @@
 For the manually retrieved statistics I used a tool found on github called cloc (https://github.com/AlDanial/cloc), which counts lines of code in a variety of languages and outputs a table with the sum total. The totals differed from Gitstats most likely because each count lines of code differently. For cloc, I totaled lines of code and comments and left out blanks, which accounts for some of the discrepancy between the two.
 
 #### Streaming Contribution Visualizations
-![fullscreenpokemon](https://youtu.be/UzCB_BD6WoE)
-![geocommerce](https://youtu.be/OlJDJJk29do)
-![gls](https://youtu.be/IcD-wi-aWV8)
-![grove](https://youtu.be/mu00DwO8CPI)
-![heavylook](https://youtu.be/s1O8KOMRLsU)
+[fullscreenpokemon](https://youtu.be/UzCB_BD6WoE)
+
+[geocommerce](https://youtu.be/OlJDJJk29do)
+
+[gls](https://youtu.be/IcD-wi-aWV8)
+
+[grove](https://youtu.be/mu00DwO8CPI)
+
+[heavylook](https://youtu.be/s1O8KOMRLsU)
 
 ### Part 2 - Unit Testing
 #### Running markdown.py
-![markdown.py](images/markdownpy.png)
-![test_markdown_unittest.py](images/test_markdown_unittest.png)
+![markdown.py](../images/markdownpy.png)
+![test_markdown_unittest.py](../images/test_markdown_unittest.png)
