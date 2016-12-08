@@ -24,14 +24,19 @@ For the manually retrieved statistics I used a tool found on github called cloc 
 
 #### Streaming Contribution Visualizations
 [fullscreenpokemon](https://youtu.be/UzCB_BD6WoE)
+Top Contributor: Josh Goldberg
 
 [geocommerce](https://youtu.be/OlJDJJk29do)
+Top Contributor: Ranjit Marathay
 
 [gls](https://youtu.be/IcD-wi-aWV8)
+Top Contributor: Josh Goldberg
 
 [grove](https://youtu.be/mu00DwO8CPI)
+Top Contributor: Max Shavrick
 
 [heavylook](https://youtu.be/s1O8KOMRLsU)
+Top Contributor: Ron Lee
 
 ### Part 2 - Unit Testing
 #### Running markdown.py
