@@ -20,6 +20,5 @@
 ![make](images/install.png)
 #### Step 4
 ![step4lists](images/step4lists.png)
+![step4mathlists](images/step4mathlists.png)
 ![step4config](images/step4config.png)
-#### Step 5
-![step5](images/step5.png)
